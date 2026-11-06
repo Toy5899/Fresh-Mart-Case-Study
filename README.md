@@ -27,5 +27,5 @@ This case study investigates declining customer basket value at FreshMart Superm
 In Progress
 
 ---
-**Programme:** BrightLearn – Data & AI Academy  
+**Programme:** BrightLearn 
 **Module:** Business Analysis & Data-Driven Decision Making
